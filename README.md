@@ -9,4 +9,4 @@
   - V
   - Rust
   - Go
-Currently working on my portfolio, but other projects may come up such as a real implementation of (github.com/ottomated/reqlang)[Reqlang]
+Currently working on my portfolio, but other projects may come up such as a real implementation of [github.com/ottomated/reqlang](Reqlang)
