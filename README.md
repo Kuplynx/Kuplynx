@@ -9,5 +9,5 @@
   - V
   - Rust
   - Go
-Currently working on my portfolio, but other projects may come up such as a real implementation of ottomated/reqlang.
-Will also develop a ton of libraries for personal use, maybe initially written in V and bindings?
+- Currently working on my portfolio, but other projects may come up such as a real implementation of ottomated/reqlang.
+- Will also develop a ton of libraries for personal use, maybe initially written in V and bindings?
