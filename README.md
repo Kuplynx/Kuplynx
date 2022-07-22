@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Kuplynx
-- 13
 - Computer & Crypto Enthusiast 
 - Languages I use:
   - Python
   - TypeScript/JS
-  - C/C++
+  - C
   - V
- Currently working on reqlang
- 
+Currently working on a terminal-based game engine 
